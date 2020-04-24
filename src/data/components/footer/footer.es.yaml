@@ -1,0 +1,54 @@
+lang: "es"
+footer:
+  - column_one:
+    heading: "CONTACTO"
+    items:
+      - name: "Lunes a viernes"
+        link: ""
+      - name: "9:00am - 6:00pm"
+        link: ""
+  - column_two:
+    heading: "COMPAÑÍA"
+    items:
+      - name: "Programa"
+        link: "/course/desarrollo-web-full-stack-bootcamp-part-time"
+      - name: "La Academia"
+        link: "/la-academia"
+      - name: "Aliados"
+        link: "/aliados"
+      - name: "Precios"
+        link: "/precios"
+  - column_three:
+    items:
+      - name: "Blog"
+        link: "/blog"
+      - name: "Contacto"
+        link: "/contactanos"
+      - name: "Empleo"
+        link: "/empleo"
+  - column_four:
+    heading: "SEDES"
+    items:
+      - name: "Santiago de Chile"
+        link: "/location/santiago-chile"
+      - name: "Miami"
+        link: "/location/downtown-miami"
+      - name: "Madrid"
+        link: "/location/madrid"
+      - name: "Caracas"
+        link: "/location/impact-hub"
+      - name: "Maracaibo"
+        link: "/location/maracaibo"
+  - column_five:
+    heading: "SÍGUENOS"
+    items:
+      - name: "Github"
+        link: "https://www.github.com"
+      - name: "Facebook"
+        link: "https://www.facebook.com"
+      - name: "Twitter"
+        link: "https://www.twitter.com"
+      - name: "Instagram"
+        link: "https://www.instagram.com"
+      - name: "Youtube"
+        link: "https://www.youtube.com"

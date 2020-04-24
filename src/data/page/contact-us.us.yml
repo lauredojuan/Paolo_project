@@ -1,0 +1,27 @@
+meta_info:
+  slug: contact-us
+  title: null
+  description: null
+  image: null
+  keywords: []
+  redirects: []
+
+## CONTACT-US HEADING
+tagline: CONTACT US
+sub_heading: "Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue. Integer posuere erat a ante venenatis dapibus posuere velit aliquet."
+
+## CONTACT-US LEFT SECTION
+left:
+  heading: "TELL US ABOUT YOU"
+  form_section:
+    first_name: "First Name"
+    last_name: "Last Name"
+    email: "Email"
+    phone: "Phone"
+  locations_title: "Select a location"
+  message_section:
+    placeholder: "Your Message here"
+    note: "If you were referred by any current or past student, use your referral code for extra credit or discount."
+  button:
+    button_text: "SEND"
+    button_link: ""

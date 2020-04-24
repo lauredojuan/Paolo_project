@@ -1,0 +1,177 @@
+
+
+.MuiStepButton-root {
+    width: 100%;
+    padding: 24px 17px!important;
+    margin: -24px -14px!important;
+    box-sizing: content-box;
+}
+.MuiStepper-root {
+    display: flex;
+}
+.MuiPaper-root {
+    background: transparent!important
+}
+.MuiToggleButtonGroup-groupedSizeLarge {
+    padding: 0px 5px 0px 10px!important;
+}
+.MuiTypography-body2 {
+    font-size: 0.5rem!important;
+    font-family: "Lato", sans-serif!important;
+    font-weight: 300!important;
+    line-height: 1.43!important;
+    letter-spacing: 0.01071em!important;
+}
+.MuiStepIcon-root.MuiStepIcon-active {
+    color: #E6BA1F!important;
+}
+.MuiStepIcon-text {
+    fill: #E6BA1F!important;
+    font-size: 0.5rem!important;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+.MuiStepLabel-label.MuiStepLabel-alternativeLabel {
+    margin-top: 8px!important;
+    text-align: center;
+    color: #ffffff!important;
+}
+.css-yk16xz-control {
+    width: 130px!important;
+}
+
+.MuiToggleButton-root.Mui-selected {
+    color:#ffffff!important;
+    background-color: #E6BA1F!important;
+    
+}
+
+.nav__item--active a.nav-item.nav-link.side {
+    color: #E6BA1F;
+}
+.nav__item--active {
+    border-left: 6px solid #E6BA1F;
+    
+}
+a.nav-item.nav-link.side {
+    height: 40px;
+    color: #0097CE;
+}
+.carousel .slide {
+    min-width: 100%;
+    margin: 0;
+    position: relative;
+    text-align: center;
+    background: #fff!important;
+}
+.carousel {
+    position: relative;
+    width: 100%;
+    border-radius: 1.25rem;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.react-tabs, .react-tabs__tab-panel{
+    height: 100%!important;
+}
+.react-tabs__tab-list {
+    border-bottom: none!important;
+    display: flex!important;
+    -ms-flex-wrap: wrap!important;
+    flex-wrap: wrap!important;
+    padding-left: 0!important;
+    margin-bottom: 0!important;
+    list-style: none!important;
+    height: 100%!important;
+}
+.react-tabs__tab {
+    display: inline-block;
+    border: none!important;
+    border-bottom: none;
+    bottom: 0!important;
+    list-style: none;
+    padding: 6px 12px;
+    cursor: pointer;
+    flex: 1 1 auto!important;
+    text-align: center!important;
+}
+.react-tabs__tab--selected {
+    background: black!important;
+    color: #E6BA1F!important;
+    border-radius: 1.25rem 1.25rem 0 0!important;
+}
+.MuiGrid-spacing-xs-2 > .MuiGrid-item {
+    padding: 0px!important;
+}
+
+a:hover {
+    text-decoration: none;
+  }
+  
+.single-post{
+    margin-bottom: 100px;
+}
+.single-post p img{
+    /* margin: auto;
+    max-height: 350px;
+    display: inherit; */
+    max-height: 350px;
+    /* height: auto; */
+    display: inherit;
+    width: 100%;
+    margin: 5px auto;
+    border-radius: .3rem;;
+    /* position: absolute;
+            left: -30px; */
+}
+.single-post h1{
+    font-size: 42px;
+    color: black;
+    font-family: 'Futura';
+    text-align: center;
+    position: relative;
+    margin: 30px 0px;
+}
+.single-post h2{
+    font-size: 36px;
+    color: black;
+    font-family: 'Lato';
+    margin: 45px 0;
+    text-align: center;
+    position: relative;
+    margin: 30px 0px;
+}
+
+/* .single-post p img{
+   
+    max-height: 350px;
+    display: inherit;
+    display: block;
+    margin: 5px auto;
+    position: absolute;
+            left: -30px;
+} */
+.single-post strong{
+    font-weight: bold;
+}
+.single-post table{
+    width: 100%;
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+
+.single-post p{
+    font-size: 22px;
+    color: black;
+    font-family: 'Lato';
+    line-height: 40px;
+    margin: 25px 0;
+}
+.single-post p a{
+    color: #0097CE;
+}
+
+.count-o {
+    display: none!important;
+}
+a {
+    color: black;
+}

@@ -1,0 +1,101 @@
+meta_info:
+  slug: the-academy
+  title: null
+  description: "About 4Geeks Academy"
+  image: ""
+  keywords: []
+  redirects: []
+
+## BANNER - HEADER
+banner:
+  tagline: ENABLING FUTURE AND CURRENT SOFTWARE BUILDERS TO ADAPT TO THE NEEDS OF THE REAL WORLD
+  sub_heading: ""
+  image: "/bg/the-academy-bg.png"
+
+## 4GEEKS OUTCOMES
+outcomes:
+  heading: "4GEEKS OUTCOMES"
+  sub_heading: "out of our total students, 76% are looking to get a job right after and 24% are pursuing to improve their skills or launch startups"
+  ## The field image is gonna be replaced from a dinamic chart generator
+  image: "/images/program-charts.png"
+  left:
+    title: "Demographics"
+    content: "4Geeks Academy students are mainly between the ages of 26 and 32 years old. We have chosen 3 main segments in order to show the average age of our graduates."
+    sub_content: "Coding Bootcamp Graduates are 30.6 years old (avg)."
+    bottom_message: "Our students make 24% more money after comnpleting our programs."
+  right:
+    chart_one:
+      title: "ages"
+      ## EACH DONUTCHART NEEDS AN ARRAY OF OBJECTS WITH COLOR, TITLE AND VALUE
+      ## THE COLOR COULD BE HEX, DEC, TEXT, RGB, ETC...
+      ## THE VALUE NEED TO BE A NUMBER, NOT A STRING
+      data:
+        - color: "grey"
+          title: "26-32"
+          value: 44
+        - color: "lightGrey"
+          title: "22-25"
+          value: 30
+        - color: "#000000"
+          title: "33-42"
+          value: 26
+    chart_two:
+      title: "gender"
+      data:
+        - color: "lightGreen"
+          title: "Female"
+          value: 21
+        - color: "green"
+          title: "Male"
+          value: 79
+
+    chart_three:
+      title: "nationality"
+      data:
+        - color: "orange"
+          title: "North America"
+          value: 60
+        - color: "yellow"
+          title: "Asia"
+          value: 1
+        - color: "brown"
+          title: "Europe"
+          value: 5
+        - color: "red"
+          title: "Lat.Am."
+          value: 34
+
+## OUR FOUR CORNERSTONES SECTION DATA
+cornerstones:
+  heading: OUR FOUR CORNERSTONES
+  sub_heading: ""
+  cornerstones_list:
+    - title: FLIPPED CLASSROOM
+      content: Theory is delivered trough video, animation, images and infographics. Class time is then used to debate, create and build projects, and mentor over practicalexercises.
+      icon: Book
+    - title: 1:7 MENTOR-STUDENT RATIO
+      content: An intimate setting provides the faculty with the opportunity to adapt to each student's particular pace.
+      icon: Teacher
+    - title: 1:1 MENTORSHIP
+      content: Every student has the opportunity to have regular conversations with a mentor.
+      icon: Users
+    - title: TALENT TREE
+      content: The syllabus maps out 44 skills; students earn points towards each skill in a gamified fashion.
+      icon: Sitemap
+
+## STAFF SECTION
+staff:
+  heading: "MEET THE TEAM"
+  sub_heading: ""
+
+## OUR STORY SECTION
+story:
+  heading: OUR STORY
+  sub_heading_one: "4Geeks Academy was founded in 2015. What began as an internal project to train new developers has flourished into a full-time passion.Today, 4Geeks is now based in the U.S. As coding has become an essential part of society, the mission of our Coding Bootcamp is to instill a new framework for Coding Education universally."
+  button: "Read More >"
+  button_link: "/us/post/4geeks-academy-history"
+  image: "/images/our-story.png"
+## RECENT BLOG POSTS  SECTION
+posts:
+  heading: "RECENT POSTS"
+  sub_heading: "Vivamus sagittis lacus vel augue laoreet rutrum ."

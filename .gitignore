@@ -1,0 +1,17 @@
+# Project dependencies
+.cache
+node_modules
+yarn-error.log
+
+# Build directory
+/public
+/storybook
+.DS_Store
+
+# dotenv environment variables file
+.env*
+
+# gatsby files
+.cache/
+public
+.now

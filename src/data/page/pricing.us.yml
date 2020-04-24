@@ -1,0 +1,37 @@
+meta_info:
+  slug: pricing
+  title: null
+  description: null
+  image: null
+  keywords: []
+  redirects: []
+
+## BANNER - HEADER
+banner:
+  tagline: CELEBRATE THE BEST PRICE IN TOWN
+  sub_heading: We never stopped trying until we mastered a real premium but affordable program. Our philosophy is rooted in making coding education available to everyone.
+  image: "/bg/pricing-bg.png"
+
+## FIRST SECTION AFTER THE BANNER
+intro:
+  image: "/images/pricing.png"
+  content: "Our program was specifically built to efficiently deliver the most current and essential  tech knowledge and skills while remaining affordable."
+
+## PRICES AND PAYMENTS SECTION
+prices:
+  heading: "PRICES AND PAYMENTS"
+
+## PAYMENT GUIDE SECTION
+payment_guide:
+  heading: "PAYMENT GUIDE"
+  sub_heading: "Do you have any questions on financing or our extended payment plans?"
+  button_text: "REVIEW GUIDEBOOK"
+  button_link: ""
+  submit_button_text: "Submit"
+  submit_button_link: ""
+
+## IMMERSED IN ECOSYSTEM SECTION
+ecosystem:
+  heading: "IMMERSED IN MIAMI'S CODING ECOSYSTEM"
+  sub_heading: "We actively organize and/or participate in the biggest coding initiatives."
+  partners_name: "financials" ## TO LOAD THE IMAGES FROM PARTNERS YML (OPTIONS: partners, influencers, coding, financials)
